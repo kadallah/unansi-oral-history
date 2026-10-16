@@ -18,21 +18,21 @@ source-code: https://github.com/oralhistoryasdata/template
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History as Data Template
+title: Unansi Oral History
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Analyze and publish coded oral history and qualitative interviews
+tagline: Oral histories of Black praxis of decentralization and distribution
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Oral History as Data (OHD) provides a static web framework for users to publish and analyze coded oral history and qualitative interviews on the web."
+description: "The Unansi Oral History Project documents examples of Black praxis of decentralization and distribution."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: dcnb
+author: kadallah
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-ohd-metadata 
+metadata: unansi-ohd-metadata 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -48,8 +48,8 @@ metadata: demo-ohd-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Media Economies Design Lab (MED Lab)me"
+organization-link: https://www.colorado.edu/lab/medlab/
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
