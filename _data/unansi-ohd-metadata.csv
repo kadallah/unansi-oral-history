@@ -1,2 +1,3 @@
 objectid,title,date,description,bio,subject,creator,interviewee,interviewer,location,latitude,longitude,source,identifier,pdf,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-jinan-vijent,Jinan Vijent,2026-10-08,,,,Kadallah Burrowes,Jinan Vijent,Kadallah Burrowes,"Amsterdam, NLD",52.36629224,4.899142024,,,,Sound,audio/mp3,,,,transcript,,,,,transcripts/jinan-vijent.csv
+jinan-vyent,Jinan Vyent,2026-10-08,,,,Kadallah Burrowes,Jinan Vyent,Kadallah Burrowes,"Amsterdam, NLD",52.36629224,4.899142024,,,,Sound,audio/mp3,,,,transcript,,,,,transcripts/jinan-vyent.csv
+kalyn-coghill,Dr. KáLyn Coghill,2026-10-22,,,,Kadallah Burrowes,Dr. KáLyn Coghill,Kadallah Burrowes,"Richmond, VA, USA",37.54906876,-77.43980028,,,,Sound,audio/mp4,,,,transcript,,,,,transcripts/kalyn-coghill.csv
